@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #e2e2e2;
   font-family: Montserrat;
 }
 a {
@@ -42,7 +41,7 @@ li.project-item::before {
 }
 .my-photo {
   width: 370px;
-  box-shadow: #e2e2e2 -8px 0px 10px 10px;
+  box-shadow: #e2e2e2 2px 0px 7px 3px;
 }
 .about-me-container {
   padding: 54px;
