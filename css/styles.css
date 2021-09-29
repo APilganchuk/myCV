@@ -34,10 +34,11 @@ li.project-item::before {
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 .sidebar {
-  background: linear-gradient(180deg, rgb(12, 19, 75) 18%, rgb(92, 146, 219));
-
   width: 370px;
+
   padding-top: 30px;
+
+  background: linear-gradient(180deg, rgb(12, 19, 75) 18%, rgb(92, 146, 219));
 }
 .my-photo {
   width: 370px;
